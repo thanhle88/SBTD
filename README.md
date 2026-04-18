@@ -15,4 +15,4 @@ Please run
 ## Reference
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1]  **L.T. Thanh**, K. Abed-Meraim, P. Ravier,,O. Buttelli . "[*A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors*](https://ieeexplore.ieee.org/document/10208007)". **Proc.  IEEE SSP**, 2023. 
+[1]  **L.T. Thanh**, K. Abed-Meraim, P. Ravier, O. Buttelli . "[*A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors*](https://ieeexplore.ieee.org/document/10208007)". **Proc.  IEEE SSP**, 2023. 
